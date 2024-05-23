@@ -14,7 +14,7 @@ for url in urls:
             num_tablas = len(tablas)
             print(f'La página {url} contiene {num_tablas} tablas.')
 
-            # Mostrar las primeras filas de cada tabla para ayudar al usuario a elegir
+           
             for i, tabla in enumerate(tablas):
                 print(f'\nTabla {i + 1} - Primeras filas:')
                 for fila in tabla.find_all('tr')[:5]:  # Mostrar solo las primeras 5 filas
@@ -22,7 +22,7 @@ for url in urls:
                     print(celdas)
                 print('-' * 40)
 
-            # Solicitar al usuario que elija una tabla
+           
             tabla_index = int(input(f'Ingrese el número de la tabla que desea exportar (1-{num_tablas}): ')) - 1
 
             if 0 <= tabla_index < num_tablas:
