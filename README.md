@@ -1,26 +1,26 @@
-# Análisis y Pronóstico de la Generación Eléctrica en el Sistema Interconectado Nacional (SIN) de Colombia
+# Analysis and Forecast of Electricity Generation in Colombia's National Interconnected System (SIN)
 
-## Descripción
+## Description
 
-Este proyecto se centra en el análisis y pronóstico de la generación eléctrica en el Sistema Interconectado Nacional (SIN) de Colombia. A través de web scraping, manipulación de datos y varios métodos analíticos, se busca comprender las tendencias y relaciones en la generación eléctrica. Este proyecto utiliza pandas, scikit-learn para modelos de regresión lineal y numpy para operaciones numéricas. Además, se ha creado un dashboard en Power BI para visualizar los hallazgos de manera efectiva.
+This project focuses on the analysis and forecast of electricity generation in Colombia's National Interconnected System (SIN). Through web scraping, data manipulation, and various analytical methods, the aim is to understand trends and relationships in electricity generation. This project utilizes pandas, scikit-learn for linear regression models, and numpy for numerical operations. Additionally, a Power BI dashboard has been created to effectively visualize the findings.
 
-## Herramientas y Tecnologías
+## Tools and Technologies
 
-- **Web Scraping**: Para recopilar datos de una fuente en linea
-- **Pandas**: Para manipulación y análisis de datos.
-- **Scikit-learn**: Para construir y evaluar modelos de regresión lineal.
-- **Numpy**: Para operaciones numéricas.
-- **Power BI**: Para crear visualizaciones interactivas.
+- **Web Scraping**: To gather data from an online source.
+- **Pandas**: For data manipulation and analysis.
+- **Scikit-learn**: For building and evaluating linear regression models.
+- **Numpy**: For numerical operations.
+- **Power BI**: For creating interactive visualizations.
 
-## Estructura del Proyecto
+## Project Structure
 
-- `notebooks/`: Contiene el Jupyter Notebook con el análisis detallado.
-- `data/`: Directorio para los archivos de datos en bruto y procesados.
-- `dashboard/`: Contiene los archivos del dashboard de Power BI
--  `Webscraping`: Contiene el codigo y archivo csv con la tabla obtenida
+- `notebooks/`: Contains the Jupyter Notebook with detailed analysis.
+- `data/`: Directory for raw and processed data files.
+- `dashboard/`: Contains files for the Power BI dashboard.
+- `Webscraping/`: Contains the code and CSV file with the obtained table.
 
-## Cómo Ver el Proyecto
+## How to View the Project
 
-- **Jupyter Notebook**: Abre el notebook en el directorio `notebooks/` para ver el análisis detallado y las conclusiones.
-- **Dashboard de Power BI**: El dashboard puede verse en línea en Deepnote. [Ver Dashboard en Deepnote](https://deepnote.com/your-dashboard-link)
+- **Jupyter Notebook**: Open the notebook in the `notebooks/` directory to view detailed analysis and conclusions.
+- **Power BI Dashboard**: The dashboard can be viewed online on Deepnote. [View Dashboard on Deepnote](https://deepnote.com/your-dashboard-link)
 
