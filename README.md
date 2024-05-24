@@ -1,16 +1,34 @@
 # Analysis and Forecast of Electricity Generation in Colombia's National Interconnected System (SIN)
 
-## Description
+## Project Overview:
 
-This project focuses on the analysis and forecast of electricity generation in Colombia's National Interconnected System (SIN). Through web scraping, data manipulation, and various analytical methods, the aim is to understand trends and relationships in electricity generation. This project utilizes pandas, scikit-learn for linear regression models, and numpy for numerical operations. Additionally, a Power BI dashboard has been created to effectively visualize the findings.
+This project delves into the analysis and forecasting of electricity generation within Colombia's National Interconnected System (SIN). Leveraging a combination of web scraping, data manipulation, and diverse analytical methods, the objective is to discern trends and correlations in electricity generation patterns.
 
-## Tools and Technologies
+### Key Objectives:
 
-- **Web Scraping**: To gather data from an online source.
-- **Pandas**: For data manipulation and analysis.
-- **Scikit-learn**: For building and evaluating linear regression models.
-- **Numpy**: For numerical operations.
-- **Power BI**: For creating interactive visualizations.
+- **Understanding Trends:** The primary goal is to gain a comprehensive understanding of the trends and patterns inherent in electricity generation within Colombia's National Interconnected System.
+
+- **Forecasting:** Employing linear regression models, to forecast future electricity generation levels accurately.
+
+- **Insight Generation:** Through meticulous data analysis, the aim is to extract valuable insights that can inform decision-making processes in the energy sector.
+
+### Technologies Utilized:
+
+- **Python:** Utilized Python programming language as the primary tool for data manipulation, analysis, and modeling.
+  
+- **Pandas:** Leveraged the Pandas library for efficient data manipulation tasks, facilitating the exploration and preparation of datasets for analysis.
+
+- **Scikit-learn:** Utilized Scikit-learn for implementing linear regression models to forecast electricity generation levels with precision.
+
+- **NumPy:** Employed NumPy for efficient numerical operations, enhancing the computational efficiency of the analysis process.
+
+- **Power BI Dashboard:** Created an interactive Power BI dashboard to visually present the findings of the analysis, enabling stakeholders to gain insights intuitively.
+
+### Project Focus:
+
+- **Data Analysis:** Through meticulous data analysis techniques, the project aims to uncover underlying trends and relationships in electricity generation patterns within Colombia's National Interconnected System.
+
+- **Forecasting Accuracy:** By implementing advanced analytical methods, including linear regression models, the project endeavors to forecast future electricity generation levels accurately.
 
 ## Project Structure
 
