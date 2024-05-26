@@ -40,5 +40,5 @@ This project delves into the analysis and forecasting of electricity generation 
 ## How to View the Project
 
 - **Jupyter Notebook**: Open the notebook in the `notebooks/` directory to view detailed analysis and conclusions.
-- **Power BI Dashboard**: The dashboard can be viewed online on Deepnote. [View Dashboard on Deepnote](https://deepnote.com/your-dashboard-link)
+- **Power BI Dashboard**: The dashboard can be viewed online on Deepnote. [View Dashboard on Deepnote]([https://deepnote.com/your-dashboard-link](https://deepnote.com/workspace/mateofernandez-c7c6b165-b5e5-44be-9aa1-6f96867cde09/project/Generacion-Electrica-en-colombia-50fba4dd-a54c-4a24-a882-e866564dde81/notebook/ElectricGeneration_colombia%20copy-966115e0ce234c9e81cef6020e2566c9))
 
