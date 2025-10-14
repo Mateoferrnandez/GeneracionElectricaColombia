@@ -77,8 +77,10 @@ class SimpleMissingValuesAnalysis(MissingValuesAnalysisTemplate):
         None: Displays a heatmap of missing values.
         """
         print("\nVisualizing Missing Values...")
+        sample_size = min(50, len(df))  # máximo 1000 filas
+        df_sample = df.sample(sample_size, random_state=42)
         plt.figure(figsize=(12, 8))
-        sns.heatmap(df.isnull(), cbar=False, cmap="viridis")
+        sns.heatmap(df_sample.isnull(), cbar=False, cmap="viridis")
         plt.title("Missing Values Heatmap")
         plt.show()
 
